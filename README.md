@@ -50,23 +50,23 @@ epiblast m-bias plots:
 ## Гистограммы bismark cov
 
 8cell:
-![image](8cell_hist.png)
+![image](data/8cell_hist.png)
 
 icm:
-![image](icm_hist.png)
+![image](data/icm_hist.png)
 
 epiblast:
-![image](epiblast_hist.png)
+![image](data/epiblast_hist.png)
 
 По гистограммам видно, что сначала большинство значений возле нуля, а после - резко в 100%.
 
 ###
 
 8cell:
-![image](result_8cell.png)
+![image](data/result_cell8.png)
 
 icm:
-![image](result_icm.png)
+![image](data/result_icm.png)
 
 epiblast:
-![image](result_epiblast.png)
+![image](data/result_epiblast.png)
