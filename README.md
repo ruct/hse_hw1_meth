@@ -32,3 +32,41 @@
 | icm      | 9.08 %  |
 | epiblast | 2.92 %  |
 
+### M bias plots
+8cell m-bias plots:
+![image](data/8cell_m1.png)
+![image](data/8cell_m2.png)
+
+icm m-bias plots:
+![image](data/icm_m1.png)
+![image](data/icm_m2.png)
+
+epiblast m-bias plots:
+![image](data/epiblast_m1.png)
+![image](data/epiblast_m2.png)
+
+В нашем дз нам нужно обратить внимание на CpG, для них графики около константы, за исключением иногда возрастания\убывания в начале сторону уменьшения позиции. Объектов других видов относительно этого немного, но они имеют большее отклонение. Но опять же, в целом их немного.
+
+## Гистограммы bismark cov
+
+8cell:
+![image](8cell_hist.png)
+
+icm:
+![image](icm_hist.png)
+
+epiblast:
+![image](epiblast_hist.png)
+
+По гистограммам видно, что сначала большинство значений возле нуля, а после - резко в 100%.
+
+###
+
+8cell:
+![image](result_8cell.png)
+
+icm:
+![image](result_icm.png)
+
+epiblast:
+![image](result_epiblast.png)
